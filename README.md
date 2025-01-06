@@ -8,6 +8,13 @@
  -Pivot Tables and Charts
  
  -Power Query [ETL]
+ #### Analyzing Avg_hourly salary vs Avg_yearly_salary
+ <img width="882" alt="image" src="https://github.com/user-attachments/assets/8ac7465e-60f6-4f1c-941e-e1a53a57f767" />
+
+ #### Top 10 skills required to get a high-salary
+ <img width="785" alt="image" src="https://github.com/user-attachments/assets/7e05ada9-b798-435b-a097-5e388f651161" />
+
+
 
  -Power Pivot
 
